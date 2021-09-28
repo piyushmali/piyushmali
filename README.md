@@ -1,8 +1,3 @@
-
-<div align="center">
-<img width="100%" height = "250px" src="https://pixabay.com/photos/white-brick-wall-quote-bike-2593704/" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
