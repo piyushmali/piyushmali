@@ -18,7 +18,8 @@
 
 </br>
 <h2 align="left">:heart: Reach me at: </h2>
-[![Gmail Badge](https://img.shields.io/badge/-piyushmali702@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyushmali702@gmail.com)](mailto:piyushmali702@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
+
   
 <br/> 
 
