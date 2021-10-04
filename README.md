@@ -30,7 +30,7 @@ Hello!!! I'm Piyush Mali. An IT Student of SVVV, Indore. I always like to learn 
 <h1> Github Stats:</h1> 
 <a href="https://github.com/piyushmali/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmali&layout=compact&theme=tokyonight" /></a>
 <br/>
-
+<br/>
 ![](https://komarev.com/ghpvc/?username=piyushmali&color=brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=piyushmali.piyushmali)
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
