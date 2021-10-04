@@ -1,7 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </br>
 <h2 align="left">:heart: Let's get connected:</h2> 
-[![Instagram Badge](https://img.shields.io/badge/-_.piyushmali-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_.piyushmali/)](https://instagram.com/_.piyushmali/)
+[![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/_.piyushmali/)](https://www.instagram.com/_.piyushmali/)
   
 <br/> 
 
