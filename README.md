@@ -8,13 +8,13 @@ I'm fun to work with, I always like to learn new things from others as much as h
 </br>
 </br>
 <p>
-<h1> Connect with me</h2>
+<h1> Connect with me</h1>
  <a href="mailto:piyushmali702@@gmail.com?subject=Olá%20Piyush%20Mali"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_.piyushmali/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 </br>
 
-<h2> Languages and Tools:</h2>
+<h1> Languages and Tools:</h1>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -32,7 +32,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
   
 <br/> 
 
-<h2> Github Stats </h2> 
+<h1> Github Stats </h1> 
 <a href="https://github.com/piyushmali/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmali&layout=compact&theme=tokyonight" /></a>
 <br/>
 <br/>
