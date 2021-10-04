@@ -1,5 +1,3 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=piyushmali&left_color=red&right_color=green) (left_color=red, right_color=green)
-</br>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </br>
 <p>
