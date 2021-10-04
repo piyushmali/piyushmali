@@ -17,9 +17,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 </br>
-<h2 align="left">:heart: Reach me at:</h2> 
-
-[![Gmail Badge](https://img.shields.io/badge/-piyushmali702@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyushmali702@gmail.com)](mailto:piyushmali702@gmail.com)
+<h2 align="left">:heart: Reach me at: [![Gmail Badge](https://img.shields.io/badge/-piyushmali702@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyushmali702@gmail.com)](mailto:piyushmali702@gmail.com) </h2>
   
 <br/> 
 
