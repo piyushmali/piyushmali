@@ -1,7 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </br>
  
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/_.piyushmali)
+[![Instagram Badge](https://img.shields.io/badge/-_.piyushmali-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_.piyushmali/)](https://instagram.com/_.piyushmali)
   
 <br/> 
 
