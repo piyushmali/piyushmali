@@ -1,6 +1,19 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </br>
-<h2 align="left">:heart: Let's get connected:</h2> 
+
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/flutter/flutter-icon.svg" alt="flutter" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/c++/c++-icon.svg" alt="c++" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+</p>
+
+</br>
+<h2 align="left">:heart: Reach me at:</h2> 
 
 [![Gmail Badge](https://img.shields.io/badge/-piyushmali702@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:piyushmali702@gmail.com)](mailto:piyushmali702@gmail.com)
   
