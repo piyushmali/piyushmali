@@ -9,7 +9,7 @@ Hello!!! I'm Piyush Mali. An IT Student of SVVV, Indore. I always like to learn 
 <p>
 <h1> Connect with me:</h1>
  <a href="mailto:piyushmali702@@gmail.com?subject=Olá%20Piyush%20Mali"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_.piyushmali/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/piyushhmali/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 <h1> Languages and Tools:</h1>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
