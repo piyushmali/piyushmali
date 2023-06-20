@@ -1,3 +1,8 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=querylab&label=Profile%20Views&color=11&icon=3&pretty=true" />
+</a>
+
+```
 <h1 align="center">👋 Hello, I'm Piyush Mali</h1>
 
 <p align="center">
@@ -8,6 +13,8 @@
   <a href="mailto:piyushmali702@gmail.com">✉️ Contact Me</a> |
   <a href="https://www.linkedin.com/in/mali12piyush/">🌐 LinkedIn</a> |
 </p>
+
+```
 
 ---
 
@@ -28,6 +35,22 @@
 📫 **Contact Me**: Want to connect or discuss a potential collaboration? Feel free to drop me an email at piyushmali702@gmail.com. I'd love to hear from you!
 
 ---
+
+## Just a snake eating my contributions🐍
+
+<p align="center">
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<details>
+<summary></summary>
+
+[![Tap to Reload](https://metrics.lecoq.io/sourabmaity?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/querylab)
+
+</details>
+
+-----
+
 
 ⭐️ Let's connect and explore the exciting world of blockchain together. Don't forget to follow me and star any repositories that catch your interest!
 
