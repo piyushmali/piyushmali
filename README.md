@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Piyush Mali</h1>
 
 <p align="center">
-  <strong>Passionate and detail-oriented Blockchain Developer</strong>
+  <strong>Passionate and Detail-Oriented Blockchain Developer</strong>
 </p>
 
 <p align="center">
