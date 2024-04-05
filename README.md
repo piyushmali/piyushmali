@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:piyushmali702@gmail.com">✉️ Contact Me</a> |
-  <a href="https://www.linkedin.com/in/mali12piyush/">🌐 LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/mali12piyush/">🌐 LinkedIn</a>
 </p>
 
 
