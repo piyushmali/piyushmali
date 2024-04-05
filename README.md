@@ -12,6 +12,4 @@
 
 ⭐️ Let's connect and explore the exciting world of Tech together. Don't forget to follow me and star any repositories that catch your interest!
 
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mali12piyush/) for the latest updates and insights on technology.
-
 ✨ Thank you for visiting my GitHub profile. Happy coding! 🚀
