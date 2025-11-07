@@ -1,15 +1,39 @@
-<h1 align="center">👋 Hello, I'm Piyush Mali</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Passionate and Detail-Oriented Blockchain Developer</strong>
-</p>
+# Piyush Mali
 
-<p align="center">
-  <a href="mailto:piyushmali702@gmail.com">✉️ Contact Me</a> |
-  <a href="https://www.linkedin.com/in/mali12piyush/">🌐 LinkedIn</a>
-</p>
+*Full-stack blockchain engineer — building calm, predictable systems*
+
+</div>
+
+---
+
+I work across the full arc of a protocol:
+designing its contracts, shaping its data, and giving it an interface that feels inevitable.
+Most days are spent refining invariants, tightening backend flows,
+and stitching together multi-chain logic without drama.
+
+AMMs, lending paths, staking, token systems, cross-chain execution —
+each built with the same intention: **clarity over noise, stability over flair.**
+
+---
+
+### Stack
+
+**Core:** Solidity, TypeScript, Rust
+**Dev:** Foundry, Hardhat, Node.js
+**Data & Infra:** PostgreSQL, Docker, GraphQL
+**Front:** Next.js, React
+**Chains:** Ethereum, Polygon, Optimism, Base, Arbitrum, Avalanche, Hedera
+
+---
+
+```text
+// note to self
+Reduce the surface area.
+Let the system speak for itself.
+```
+
+---
 
 
-⭐️ Let's connect and explore the exciting world of Tech together. Don't forget to follow me and star any repositories that catch your interest!
-
-✨ Thank you for visiting my GitHub profile. Happy coding! 🚀
