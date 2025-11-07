@@ -18,16 +18,6 @@ each built with the same intention: **clarity over noise, stability over flair.*
 
 ---
 
-### Stack
-
-**Core:** Solidity, TypeScript, Rust
-**Dev:** Foundry, Hardhat, Node.js
-**Data & Infra:** PostgreSQL, Docker, GraphQL
-**Front:** Next.js, React
-**Chains:** Ethereum, Polygon, Optimism, Base, Arbitrum, Avalanche, Hedera
-
----
-
 ```text
 // note to self
 Reduce the surface area.
