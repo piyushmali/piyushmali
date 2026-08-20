@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1130px" height="535px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -10,57 +10,55 @@ size-adjust: 109%;
 }
 .key {fill: #ffa657;}
 .value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1130px" height="535px" fill="#161b22" rx="15"/>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="80">                                      </tspan>
-<tspan x="15" y="100">              .::=+::-..              </tspan>
-<tspan x="15" y="120">           -*#@@@@@%%###+:            </tspan>
-<tspan x="15" y="140">         .*@@@@@@@@@%##%%#*:          </tspan>
-<tspan x="15" y="160">         =@@@@@@@@@@@@@@%#%#+         </tspan>
-<tspan x="15" y="180">         =@@@%#*=::=::+*%%%#:         </tspan>
-<tspan x="15" y="200">          #@@*::-....   :%#+          </tspan>
-<tspan x="15" y="220">          -@@*==:.....  :@+           </tspan>
-<tspan x="15" y="240">          .##*#%#*:-=**+-*.           </tspan>
-<tspan x="15" y="260">           **::::==..:-  :            </tspan>
-<tspan x="15" y="280">           =#=- .+=..    =            </tspan>
-<tspan x="15" y="300">            #%=-+%%**=. *=            </tspan>
-<tspan x="15" y="320">            -@@#%**+:++*%             </tspan>
-<tspan x="15" y="340">             :%@@%%#*%@*-             </tspan>
-<tspan x="15" y="360">           -:=**%@@@%#: --:.          </tspan>
-<tspan x="15" y="380">       -=*#@#**+=*==-.  .:##+=-.      </tspan>
-<tspan x="15" y="400">   .:+#@@@@@@#*=:-...  .:**#%#%#+:-   </tspan>
-<tspan x="15" y="420">.=*%@@@@@@@@@@@*+=:=:=+#%#%@%@@@@%#*+-</tspan>
-<tspan x="15" y="440">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*</tspan>
+<tspan x="15" y="90">                                          </tspan>
+<tspan x="15" y="110">               -=-:++=:=-..               </tspan>
+<tspan x="15" y="130">           :*#%@@%@@@@%%###*=:.           </tspan>
+<tspan x="15" y="150">         :#@@@@@@@@@@%%#***%##*:.         </tspan>
+<tspan x="15" y="170">        #@@%%@@%%@@@@@@@@#%@%###*=.       </tspan>
+<tspan x="15" y="190">       -%@@@@@@@@@@@@@@@@@@@%##%##+       </tspan>
+<tspan x="15" y="210">       :%@@@@%##*+:-:====+##%@%%#+.       </tspan>
+<tspan x="15" y="230">        -@@@@*:::-...  .   .:@##%:        </tspan>
+<tspan x="15" y="250">         *@@@*::=-.......   .%##-         </tspan>
+<tspan x="15" y="270">         .@@#*+++=-...... .--#@-          </tspan>
+<tspan x="15" y="290">         :#%+*#%@%%*=-:*%%*+-=*           </tspan>
+<tspan x="15" y="310">         .*%=:===:=*=. -=:.  .=           </tspan>
+<tspan x="15" y="330">         .+%+:. ..:=-        -=           </tspan>
+<tspan x="15" y="350">          .*%=:- .+#*::-     #-           </tspan>
+<tspan x="15" y="370">           -@@*::#%%%*##*: -#%            </tspan>
+<tspan x="15" y="390">            +@@*%%+*+=:-=%.%@-            </tspan>
+<tspan x="15" y="410">             +@@@%##%#+:*@@%:             </tspan>
+<tspan x="15" y="430">             =*#@@@@@@@@@%=.-..           </tspan>
+<tspan x="15" y="450">         -=*++*++#%%%%#*=.  :-+*:.        </tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">piyush@mali</tspan> —————————————————————————————————————————————————————————————
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">macOS, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">5 years, 11 months, 24 days</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Full Stack Software Engineer</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">AI / Blockchain / Distributed Systems</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode, Foundry, Hardhat</tspan>
-<tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">TypeScript, JavaScript, Rust, Solidity, Python</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">HTML, CSS, JSON, YAML, TOML</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">English, Hindi</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">React, Next.js, TypeScript, MUI, Tailwind</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Node.js, REST APIs, GraphQL, SQL, MongoDB</tspan>
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">AI Agents, LLMs, AI Automation, AI APIs</tspan>
-<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Blockchain</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">EVM, Solana, Smart Contracts, DeFi</tspan>
-<tspan x="390" y="330" class="cc">. </tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Protocols</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">AMMs, Lending, Staking, DEXs</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Systems</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Token Systems, Cross-chain, Distributed Apps</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Building</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Full Stack Products, AI x Blockchain</tspan>
-<tspan x="390" y="430">— Contact</tspan> —————————————————————————————————————————————————————————————
-<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">0xpiyush.xyz</tspan>
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">piyushmali</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">mali12piyush</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">0xpiyushvm</tspan>
+<tspan x="390" y="30">piyush@mali <tspan class="cc">————————————————————————————————————————————————</tspan></tspan>
+<tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">macOS, Linux</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">5 years, 11 months, 24 days</tspan></tspan>
+<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Full Stack Software Engineer</tspan></tspan>
+<tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">AI / Blockchain / Distributed Systems</tspan></tspan>
+<tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">VSCode, Foundry, Hardhat</tspan></tspan>
+<tspan x="390" y="150" class="cc">.</tspan>
+<tspan x="390" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">TypeScript, Solidity, Rust</tspan></tspan>
+<tspan x="390" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">HTML, CSS, JSON, YAML, TOML</tspan></tspan>
+<tspan x="390" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">English, Hindi</tspan></tspan>
+<tspan x="390" y="230" class="cc">.</tspan>
+<tspan x="390" y="250"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">React, Next.js, TypeScript, Tailwind</tspan></tspan>
+<tspan x="390" y="270"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Node.js, REST, GraphQL, SQL, MongoDB</tspan></tspan>
+<tspan x="390" y="290"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">AI Agents, LLMs, Automation, APIs</tspan></tspan>
+<tspan x="390" y="310"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Blockchain</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">EVM, Solana, Smart Contracts, DeFi</tspan></tspan>
+<tspan x="390" y="330" class="cc">.</tspan>
+<tspan x="390" y="350"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Protocols</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">AMMs, Lending, Staking, DEXs</tspan></tspan>
+<tspan x="390" y="370"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Systems</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Token Systems, Cross-chain, dApps</tspan></tspan>
+<tspan x="390" y="390"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Building</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Full Stack Products, AI x Blockchain</tspan></tspan>
+<tspan x="390" y="430">— Contact <tspan class="cc">——————————————————————————————————————————————————</tspan></tspan>
+<tspan x="390" y="450"><tspan class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">0xpiyush.xyz</tspan></tspan>
+<tspan x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">piyushmali</tspan></tspan>
+<tspan x="390" y="490"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">mali12piyush</tspan></tspan>
+<tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">0xpiyushvm</tspan></tspan>
 </text>
 </svg>
